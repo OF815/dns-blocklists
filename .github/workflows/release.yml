@@ -71,7 +71,7 @@ jobs:
         uses: sgpublic/delete-release-action@v1.2
         with:
           release-drop: true
-          release-keep-count: 3
+          release-keep-count: 1
           release-drop-tag: true
         env:
           GITHUB_TOKEN: ${{ github.token }}
@@ -85,6 +85,6 @@ jobs:
         with:
           token: ${{ github.token }}
           repository: ${{ github.repository }}
-          retain_days: 2
+          retain_days: 1
           keep_minimum_runs: 0
     needs: [release, purge, close-issues, release-cleanup]
