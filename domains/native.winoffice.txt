@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jan 2025 15:15 UTC
-# Version: 2025.0116.1515.04
+# Last modified: 16 Jan 2025 23:35 UTC
+# Version: 2025.0116.2335.12
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 676
+# Number of entries: 674
 #
 in.appcenter.ms
 js.cdn.applicationinsights.io
@@ -109,13 +109,13 @@ live.applicationinsights.azure.com
 inference-app-gateway.eastus2.cloudapp.azure.com
 inference-app-gateway.koreacentral.cloudapp.azure.com
 inference-app-gateway.northeurope.cloudapp.azure.com
+azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com
 azsc-bingads-westus.westus.cloudapp.azure.com
 collector.azure.cn
 js.monitor.azure.com
 adsdkprod.azureedge.net
 adsdkprprod.azureedge.net
 adsdkprod.afd.azureedge.net
-adsdkprprod.ec.azureedge.net
 location-microsoft-com.b-0005.b-msedge.net
 a4.bing.com
 ads.bing.com
@@ -238,7 +238,6 @@ api.beta.ads.microsoft.com
 developers.ads.microsoft.com
 dmc.ads.microsoft.com
 help.ads.microsoft.com
-learninglab.ads.microsoft.com
 mmcapi.ads.microsoft.com
 smetric.ads.microsoft.com
 status.ads.microsoft.com
@@ -294,7 +293,6 @@ beta.bingads.microsoft.com
 ch1b.bingads.microsoft.com
 community.bingads.microsoft.com
 developers.bingads.microsoft.com
-express.bingads.microsoft.com
 fd.bingads.microsoft.com
 feedback.bingads.microsoft.com
 help.bingads.microsoft.com

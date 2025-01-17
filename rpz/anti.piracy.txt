@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1737057000 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1737068520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Jan 2025 19:50 UTC
-; Version: 2025.0116.1950.14
+; Last modified: 16 Jan 2025 23:02 UTC
+; Version: 2025.0116.2302.29
 ; Syntax: RPZ
-; Number of entries: 19404
+; Number of entries: 19420
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -559,6 +559,8 @@ streamingcommunity.bio CNAME .
 *.streamingcommunity.bio CNAME .
 123moviesonline.biz CNAME .
 *.123moviesonline.biz CNAME .
+altadefinizione.biz CNAME .
+*.altadefinizione.biz CNAME .
 animeflv.biz CNAME .
 *.animeflv.biz CNAME .
 animesonline.biz CNAME .
@@ -1497,6 +1499,8 @@ ukpirate.click CNAME .
 *.ukpirate.click CNAME .
 xcine.click CNAME .
 *.xcine.click CNAME .
+altadefinizione.clinic CNAME .
+*.altadefinizione.clinic CNAME .
 cb01.clinic CNAME .
 *.cb01.clinic CNAME .
 lookmovie.clinic CNAME .
@@ -1509,6 +1513,8 @@ cb01.clothing CNAME .
 *.5movies.cloud CNAME .
 altadefinizione01.cloud CNAME .
 *.altadefinizione01.cloud CNAME .
+audiobooks.cloud CNAME .
+*.audiobooks.cloud CNAME .
 bedro.cloud CNAME .
 *.bedro.cloud CNAME .
 cb01.cloud CNAME .
@@ -2235,6 +2241,8 @@ abrokegamer.com CNAME .
 *.abrokegamer.com CNAME .
 abtorrents.com CNAME .
 *.abtorrents.com CNAME .
+acgnxtracker.com CNAME .
+*.acgnxtracker.com CNAME .
 acgsou.com CNAME .
 *.acgsou.com CNAME .
 open.acgtracker.com CNAME .
@@ -2321,6 +2329,8 @@ alphabetagamer.com CNAME .
 *.alphabetagamer.com CNAME .
 alphabroadway.com CNAME .
 *.alphabroadway.com CNAME .
+alphamediazone.com CNAME .
+*.alphamediazone.com CNAME .
 alphastress.com CNAME .
 *.alphastress.com CNAME .
 alt-torrent.com CNAME .
@@ -8859,6 +8869,8 @@ kinogo.inc CNAME .
 *.kinogo.inc CNAME .
 abcvg.info CNAME .
 *.abcvg.info CNAME .
+afdah.info CNAME .
+*.afdah.info CNAME .
 allseek.info CNAME .
 *.allseek.info CNAME .
 altadefinizione.info CNAME .
@@ -13447,6 +13459,8 @@ tracker.artixlinux.org CNAME .
 *.tracker.artixlinux.org CNAME .
 asiandvdclub.org CNAME .
 *.asiandvdclub.org CNAME .
+assistiranimes.org CNAME .
+*.assistiranimes.org CNAME .
 assistirserie.org CNAME .
 *.assistirserie.org CNAME .
 audionews.org CNAME .
@@ -16939,6 +16953,8 @@ warez-fusion.6x.to CNAME .
 *.warez-fusion.6x.to CNAME .
 wzone.6x.to CNAME .
 *.wzone.6x.to CNAME .
+afdah.to CNAME .
+*.afdah.to CNAME .
 anilinkz.to CNAME .
 *.anilinkz.to CNAME .
 animedao.to CNAME .

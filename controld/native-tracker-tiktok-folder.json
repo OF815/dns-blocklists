@@ -645,13 +645,6 @@
       }
     },
     {
-      "PK": "log22-normal-c-alisg.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "log22-normal.tiktokv.com",
       "action": {
         "do": 0,

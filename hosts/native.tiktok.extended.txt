@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jan 2025 15:24 UTC
-# Version: 2025.0116.1524.40
+# Last modified: 16 Jan 2025 23:40 UTC
+# Version: 2025.0116.2340.41
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 355
+# Number of entries: 354
 #
 0.0.0.0 log16-normal-alisg.tiktokv.com.bytewlb.akadns.net
 0.0.0.0 frontier.byteoversea.com
@@ -177,7 +177,6 @@
 0.0.0.0 log22-applog-useast2a.tiktokv.com
 0.0.0.0 log22-normal.tiktokv.com
 0.0.0.0 log22-normal-alisg.tiktokv.com
-0.0.0.0 log22-normal-c-alisg.tiktokv.com
 0.0.0.0 log22-normal-useast1a.tiktokv.com
 0.0.0.0 log22-normal-useast2a.tiktokv.com
 0.0.0.0 log3-normal-c-alisg.tiktokv.com

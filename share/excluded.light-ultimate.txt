@@ -265,6 +265,7 @@ ads-sharkue1.aylanetworks.com
 ads-throttle-sharkue1.aylanetworks.com
 metric-field-1a2039d9.aylanetworks.com
 azol.de
+nlo-stl-web.azureedge.net
 olmprodpowerlift-cdn.azureedge.net
 jobs.b-ite.com
 loc.map.baidu.com
@@ -477,7 +478,6 @@ click.accesstrade.co.id
 db.accesstrade.co.id
 appx.transient.amazon.co.uk
 ati-a1.946d001b783803c1.xhst.bbci.co.uk
-prodigy.clarity.co.uk
 dmgmediaprivacy.co.uk
 cmp.dmgmediaprivacy.co.uk
 backstory.ebay.co.uk
@@ -537,7 +537,6 @@ secure.nch.com.au
 adc.api.nine.com.au
 statics.olx.com.tr
 cdn.privacytools.com.br
-cvf.shopee.com.br
 cvf.shopee.com.my
 endpoint.mms.shopee.com.br
 endpoint.mms.shopee.com.my
@@ -1095,6 +1094,7 @@ mdp-appconf-co.heytapdl.com
 mdp-appconf-cr.heytapdl.com
 mdp-appconf-de.heytapdl.com
 mdp-appconf-dk.heytapdl.com
+mdp-appconf-do.heytapdl.com
 mdp-appconf-dz.heytapdl.com
 mdp-appconf-ec.heytapdl.com
 mdp-appconf-eg.heytapdl.com
@@ -1124,6 +1124,7 @@ mdp-appconf-kz.heytapdl.com
 mdp-appconf-la.heytapdl.com
 mdp-appconf-latam.heytapdl.com
 mdp-appconf-lk.heytapdl.com
+mdp-appconf-ly.heytapdl.com
 mdp-appconf-ma.heytapdl.com
 mdp-appconf-me.heytapdl.com
 mdp-appconf-mea.heytapdl.com
@@ -1133,6 +1134,7 @@ mdp-appconf-my.heytapdl.com
 mdp-appconf-ng.heytapdl.com
 mdp-appconf-nl.heytapdl.com
 mdp-appconf-np.heytapdl.com
+mdp-appconf-null.heytapdl.com
 mdp-appconf-nz.heytapdl.com
 mdp-appconf-oca.heytapdl.com
 mdp-appconf-om.heytapdl.com
@@ -1346,7 +1348,6 @@ static.klaviyo.com
 klevu.com
 myim3banner.kloc.co
 knet.cn
-storage.ko-fi.com
 omsc.kpn.com
 sharing.kptncook.com
 ksapisrv.com
@@ -1368,6 +1369,7 @@ lead-alliance.net
 www.lead-alliance.net
 leadfamly.com
 leafmedia.io
+prod.leanplum.com
 leaurned-fundonals.com
 lekane.net
 log16-normal-alisg.lemon8-app.com
@@ -1690,7 +1692,6 @@ track.nzz.ch
 o0bc.com
 go.oaktreecapital.com
 octafx.com
-octaneai.com
 graph.oculus.com
 oecherdeal.de
 www.oecherdeal.de

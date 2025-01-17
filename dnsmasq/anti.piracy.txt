@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jan 2025 19:50 UTC
-# Version: 2025.0116.1950.14
+# Last modified: 16 Jan 2025 23:02 UTC
+# Version: 2025.0116.2302.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9702
+# Number of entries: 9710
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -390,6 +390,7 @@ local=/acg.rip/
 local=/bt.acg.gg/
 local=/tracker.acg.gg/
 local=/acgnx.se/
+local=/acgnxtracker.com/
 local=/acgsou.com/
 local=/open.acgtracker.com/
 local=/acidwarez.com/
@@ -422,8 +423,10 @@ local=/aeromods.app/
 local=/aerotwitter.com/
 local=/aerowa.cc/
 local=/afdah.com/
+local=/afdah.info/
 local=/afdah.live/
 local=/afdah.org/
+local=/afdah.to/
 local=/afdah.tv/
 local=/afdah.video/
 local=/afdah.ws/
@@ -507,6 +510,7 @@ local=/aloanime.me/
 local=/alostream.tv/
 local=/alphabetagamer.com/
 local=/alphabroadway.com/
+local=/alphamediazone.com/
 local=/alphaomega.me/
 local=/alpharatio.cc/
 local=/alphastress.com/
@@ -518,6 +522,7 @@ local=/altadefinizione.arab/
 local=/altadefinizione.archi/
 local=/altadefinizione.bargains/
 local=/altadefinizione.bet/
+local=/altadefinizione.biz/
 local=/altadefinizione.boats/
 local=/altadefinizione.cab/
 local=/altadefinizione.cafe/
@@ -529,6 +534,7 @@ local=/altadefinizione.cheap/
 local=/altadefinizione.church/
 local=/altadefinizione.claims/
 local=/altadefinizione.click/
+local=/altadefinizione.clinic/
 local=/altadefinizione.club/
 local=/altadefinizione.co/
 local=/altadefinizione.codes/
@@ -943,6 +949,7 @@ local=/ask4movie.li/
 local=/asmabroadbandnetwork.com/
 local=/asnet.pw/
 local=/assistir.biz/
+local=/assistiranimes.org/
 local=/assistirseriados.online/
 local=/assistirserie.org/
 local=/assistirseriesflix.net/
@@ -983,6 +990,7 @@ local=/audiobookbay.me/
 local=/audiobookbay.net/
 local=/audiobookbay.nl/
 local=/audiobookbay.se/
+local=/audiobooks.cloud/
 local=/audionews.org/
 local=/audionews.ru/
 local=/audiop2p.com/

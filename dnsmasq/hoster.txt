@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jan 2025 19:53 UTC
-# Version: 2025.0116.1953.05
+# Last modified: 16 Jan 2025 23:01 UTC
+# Version: 2025.0116.2301.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1849
+# Number of entries: 1851
 #
 local=/000a.de/
 local=/000space.com/
@@ -245,6 +245,7 @@ local=/articlesblogger.com/
 local=/arwebo.com/
 local=/asablo.jp/
 local=/asia.cm/
+local=/asia.gp/
 local=/at.cr/
 local=/at.st/
 local=/atsnx.com/
@@ -260,6 +261,7 @@ local=/ausposaunen.de/
 local=/auto.lc/
 local=/avablog.ir/
 local=/avalon.company/
+local=/aw3.de/
 local=/awardspace.biz/
 local=/awardspace.com/
 local=/az.gp/
