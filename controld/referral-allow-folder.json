@@ -281,7 +281,7 @@
       }
     },
     {
-      "PK": "api.cleverpush.com",
+      "PK": "api*.cleverpush.com",
       "action": {
         "do": 1,
         "status": 1
@@ -2521,7 +2521,7 @@
       }
     },
     {
-      "PK": "static.cleverpush.com",
+      "PK": "static*.cleverpush.com",
       "action": {
         "do": 1,
         "status": 1

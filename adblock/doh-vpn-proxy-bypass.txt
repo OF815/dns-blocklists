@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 16 Jan 2025 22:58 UTC
-! Version: 2025.0116.2258.45
+! Last modified: 17 Jan 2025 19:34 UTC
+! Version: 2025.0117.1934.11
 ! Syntax: AdBlock
-! Number of entries: 3737
+! Number of entries: 3744
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -422,6 +422,7 @@
 ||adguard.bonis.de^
 ||adguard.bonsirven.eu^
 ||boomproxy.com^
+||boomtunnel.com^
 ||booomblaastfs.site^
 ||booster456.com^
 ||borderlessvpn.io^
@@ -524,6 +525,7 @@
 ||ciproxy.de^
 ||canadianshield.cira.ca^
 ||dns.circl.lu^
+||circumvent.it^
 ||mus.cisco.com^
 ||ciscossh.com^
 ||citizenvpn.com^
@@ -534,6 +536,7 @@
 ||clickapp.info^
 ||clickwork7secure.com^
 ||cloaker.ca^
+||cloaker.us^
 ||cloakvpn.com^
 ||cloudbenders.fun^
 ||apple-relay.cloudfare.com^
@@ -988,6 +991,7 @@
 ||dontblockme.org^
 ||dontfilter.us^
 ||dns.dooks.uk^
+||doomshadow.com^
 ||dot.pub^
 ||ns1.dotls.org^
 ||dns.dotnet.win^
@@ -1015,6 +1019,7 @@
 ||dvprovider.icu^
 ||dns.dyn1.de^
 ||ueni.dyndns.org^
+||resolver2.dyndnsinternetguide.com^
 ||vpn.dzarlax.dev^
 ||dzhot.us^
 ||dnscache.e-utp.net^
@@ -1092,6 +1097,7 @@
 ||dns.extrawdw.net^
 ||fra1.eyecay.xyz^
 ||dns.ezyss.id^
+||f0lga.tech^
 ||dns.f4a.fun^
 ||f4fp.com^
 ||jp1.f7b6h9.tk^
@@ -1162,6 +1168,7 @@
 ||fishproxy.com^
 ||fitnessdepotprices.com^
 ||fixproxy.com^
+||dns.fizz.studio^
 ||flarquix.xyz^
 ||flashpull.com^
 ||flashput.net^

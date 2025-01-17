@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1737068280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1737142440 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Jan 2025 22:58 UTC
-; Version: 2025.0116.2258.45
+; Last modified: 17 Jan 2025 19:34 UTC
+; Version: 2025.0117.1934.11
 ; Syntax: RPZ
-; Number of entries: 7474
+; Number of entries: 7488
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -886,6 +886,8 @@ boi9osyg1uwtyafn.com CNAME .
 *.boi9osyg1uwtyafn.com CNAME .
 boomproxy.com CNAME .
 *.boomproxy.com CNAME .
+boomtunnel.com CNAME .
+*.boomtunnel.com CNAME .
 booster456.com CNAME .
 *.booster456.com CNAME .
 boxpn.com CNAME .
@@ -1146,6 +1148,8 @@ doh.us.dnswarden.com CNAME .
 *.doh.us.dnswarden.com CNAME .
 dnswebvsn.com CNAME .
 *.dnswebvsn.com CNAME .
+doomshadow.com CNAME .
+*.doomshadow.com CNAME .
 dotvpn.com CNAME .
 *.dotvpn.com CNAME .
 downloadvpnfree.com CNAME .
@@ -1154,6 +1158,8 @@ droidvpn.com CNAME .
 *.droidvpn.com CNAME .
 duapps.com CNAME .
 *.duapps.com CNAME .
+resolver2.dyndnsinternetguide.com CNAME .
+*.resolver2.dyndnsinternetguide.com CNAME .
 earnapp.com CNAME .
 *.earnapp.com CNAME .
 earthvpn.com CNAME .
@@ -4264,6 +4270,8 @@ block.abstergo.it CNAME .
 *.block.abstergo.it CNAME .
 doh.ccb-net.it CNAME .
 *.doh.ccb-net.it CNAME .
+circumvent.it CNAME .
+*.circumvent.it CNAME .
 dns.home.daniil.it CNAME .
 *.dns.home.daniil.it CNAME .
 dns2.guidocioni.it CNAME .
@@ -6804,6 +6812,8 @@ minilla.store CNAME .
 *.minilla.store CNAME .
 polarvoid.store CNAME .
 *.polarvoid.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 kinoshka.su CNAME .
@@ -6824,6 +6834,8 @@ dns.daarrk.tech CNAME .
 *.dns.daarrk.tech CNAME .
 easyproxy.tech CNAME .
 *.easyproxy.tech CNAME .
+f0lga.tech CNAME .
+*.f0lga.tech CNAME .
 hanniel.tech CNAME .
 *.hanniel.tech CNAME .
 mathlearning.tech CNAME .
@@ -7044,6 +7056,8 @@ appshost.us CNAME .
 *.appshost.us CNAME .
 bypasser.us CNAME .
 *.bypasser.us CNAME .
+cloaker.us CNAME .
+*.cloaker.us CNAME .
 cloudssh.us CNAME .
 *.cloudssh.us CNAME .
 coloredwool.us CNAME .

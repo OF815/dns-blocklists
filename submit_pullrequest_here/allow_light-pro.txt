@@ -1,8 +1,10 @@
 # Unblocking for relaxed and balanced lists (non-aggressive) only.
 
-# Joyn: Stream buffers a few seconds when commercials are played?
-# Advertising is still blocked
-joyn.somquery.sqrt-5041.de
+# Newsletter (un)subscribe/links (Quarks and other german sites)
+api.cleverpush.com
+static.cleverpush.com
+api-eu.cleverpush.com
+static-eu.cleverpush.com
 
 # Referral
 engagements.appsflyer.com

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jan 2025 22:57 UTC
-# Version: 2025.0116.2257.35
+# Last modified: 17 Jan 2025 19:30 UTC
+# Version: 2025.0117.1930.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1469
+# Number of entries: 1474
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -175,6 +175,7 @@ local=/celltrak.mobi/
 local=/centserver.com/
 local=/cf.gs/
 local=/changeip.biz/
+local=/changeip.co/
 local=/changeip.com/
 local=/changeip.name/
 local=/changeip.net/
@@ -204,8 +205,10 @@ local=/cloudns.pro/
 local=/cloudwatch.net/
 local=/cloudxns.net/
 local=/cmirg.com/
+local=/cnstefancelmare.ro/
 local=/changeip.co.uk/
 local=/dynamicdns.co.uk/
+local=/nav.co.id/
 local=/no-ip.co.uk/
 local=/coalnet.ru/
 local=/codns.com/
@@ -337,6 +340,7 @@ local=/dob.jp/
 local=/does-it.net/
 local=/doesntexist.com/
 local=/doesntexist.org/
+local=/donhoo.com/
 local=/dontexist.com/
 local=/dontexist.net/
 local=/dontexist.org/
@@ -386,6 +390,7 @@ local=/dynalias.org/
 local=/dynamai.com/
 local=/dynamic.domains/
 local=/dynamic-dns.net/
+local=/dynamic-dns.us/
 local=/dynamic-m.com/
 local=/dynamic-site.net/
 local=/dynamicdns.biz/
@@ -489,6 +494,7 @@ local=/etowns.org/
 local=/eurotank.ro/
 local=/eva.hk/
 local=/everton.com/
+local=/evils.in/
 local=/expired-dns.com/
 local=/ez-ip.net/
 local=/ezua.com/
@@ -1392,7 +1398,6 @@ local=/urown.cloud/
 local=/us.to/
 local=/usa.cc/
 local=/uzhi.ru/
-local=/v6.army/
 local=/v6.navy/
 local=/v6.rocks/
 local=/vankin.de/

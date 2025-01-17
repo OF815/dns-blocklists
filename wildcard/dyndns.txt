@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jan 2025 22:57 UTC
-# Version: 2025.0116.2257.35
+# Last modified: 17 Jan 2025 19:30 UTC
+# Version: 2025.0117.1930.34
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1469
+# Number of entries: 1474
 #
 *.0000000000000000000000.com
 *.0rg.us
@@ -175,6 +175,7 @@
 *.centserver.com
 *.cf.gs
 *.changeip.biz
+*.changeip.co
 *.changeip.com
 *.changeip.name
 *.changeip.net
@@ -204,8 +205,10 @@
 *.cloudwatch.net
 *.cloudxns.net
 *.cmirg.com
+*.cnstefancelmare.ro
 *.changeip.co.uk
 *.dynamicdns.co.uk
+*.nav.co.id
 *.no-ip.co.uk
 *.coalnet.ru
 *.codns.com
@@ -337,6 +340,7 @@
 *.does-it.net
 *.doesntexist.com
 *.doesntexist.org
+*.donhoo.com
 *.dontexist.com
 *.dontexist.net
 *.dontexist.org
@@ -386,6 +390,7 @@
 *.dynamai.com
 *.dynamic.domains
 *.dynamic-dns.net
+*.dynamic-dns.us
 *.dynamic-m.com
 *.dynamic-site.net
 *.dynamicdns.biz
@@ -489,6 +494,7 @@
 *.eurotank.ro
 *.eva.hk
 *.everton.com
+*.evils.in
 *.expired-dns.com
 *.ez-ip.net
 *.ezua.com
@@ -1392,7 +1398,6 @@
 *.us.to
 *.usa.cc
 *.uzhi.ru
-*.v6.army
 *.v6.navy
 *.v6.rocks
 *.vankin.de

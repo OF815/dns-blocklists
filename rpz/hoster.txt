@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1737068460 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1737142260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Jan 2025 23:01 UTC
-; Version: 2025.0116.2301.16
+; Last modified: 17 Jan 2025 19:31 UTC
+; Version: 2025.0117.1931.45
 ; Syntax: RPZ
-; Number of entries: 3702
+; Number of entries: 3706
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -753,6 +753,8 @@ carookee.com CNAME .
 *.carookee.com CNAME .
 carrefourpro.com CNAME .
 *.carrefourpro.com CNAME .
+cfm-id72049123.com CNAME .
+*.cfm-id72049123.com CNAME .
 chamberecommerce.com CNAME .
 *.chamberecommerce.com CNAME .
 chez.com CNAME .
@@ -3603,6 +3605,8 @@ webnode.com.tr CNAME .
 *.webnode.com.tr CNAME .
 blogspot.tw CNAME .
 *.blogspot.tw CNAME .
+sclub.com.tw CNAME .
+*.sclub.com.tw CNAME .
 webnode.tw CNAME .
 *.webnode.tw CNAME .
 adr.com.ua CNAME .
