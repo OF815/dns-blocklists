@@ -2216,6 +2216,7 @@ hbbtv.rtl2.de
 rtoaster.jp
 rudderstack.com
 api.rudderstack.com
+onefootbalnurg.dataplane.rudderstack.com
 sdk-metrics.eu.rudderstack.com
 mailgun-dataplane.rudderstack.com
 metrics.rudderstack.com

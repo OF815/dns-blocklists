@@ -806,6 +806,13 @@
       }
     },
     {
+      "PK": "evalmy.autos",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "eventix.shop",
       "action": {
         "do": 1,

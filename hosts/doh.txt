@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Jan 2025 19:32 UTC
-# Version: 2025.0117.1932.59
+# Last modified: 18 Jan 2025 11:32 UTC
+# Version: 2025.0118.1132.31
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1639
+# Number of entries: 1641
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -720,6 +720,7 @@
 0.0.0.0 cluster-0.gac.edu
 0.0.0.0 cluster-1.gac.edu
 0.0.0.0 dns.gamban.com
+0.0.0.0 adguard.gambini.org
 0.0.0.0 dns.beta.gandi.net
 0.0.0.0 gclouddns.com
 0.0.0.0 adg.geili.me
@@ -789,6 +790,7 @@
 0.0.0.0 doh.hottis.de
 0.0.0.0 hshh.org
 0.0.0.0 dns.hshoe.cn
+0.0.0.0 dns.huas.me
 0.0.0.0 dns.hujiayucc.cn
 0.0.0.0 doth.huque.com
 0.0.0.0 dns.huseynov.work
