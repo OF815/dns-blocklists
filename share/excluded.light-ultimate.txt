@@ -807,7 +807,6 @@ c4.etrality.com
 net.etrality.com
 cdn1.ettoday.net
 msg.ettoday.net
-tracker.fr.eu.org
 tracker.renfei.eu.org
 evergage.com
 us-4.evergage.com
@@ -2145,7 +2144,6 @@ eu.webhook.logs.insight.rapid7.com
 trk.rapido.bike
 tracker.raspberrypi.org
 ravelin.click
-ravm.tv
 assets.rbl.ms
 analytics.rbleipzig.com
 rdstation.com
@@ -2331,6 +2329,7 @@ sgizmo.com
 online.sh.cn
 shalltry.com
 www.shalltry.com
+static.share-videos.se
 ws.sharethis.com
 shayujizhang.com
 newloc.map.n.shifen.com

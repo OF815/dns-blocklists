@@ -304,6 +304,7 @@
 @@||infosec.space^
 @@||ippen.space^
 @@||keyboard-test.space^
+@@||latent.space^
 @@||link.space^
 @@||mapstodon.space^
 @@||melmac.space^
